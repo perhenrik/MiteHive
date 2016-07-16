@@ -1,0 +1,9 @@
+name: MiteHive
+main: no.perhenrik.mitehive.MiteHivePlugin
+version: 1.0.0-SMAPSHOT
+author: perhenrik
+description: Creates endermite hives
+commands:
+    mitehive:
+        description: Shows info
+        usage: /mitehive
